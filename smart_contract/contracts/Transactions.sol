@@ -1,3 +1,6 @@
+// this is our Solidity smart contract
+// This page interacts with 'scripts/deploy.js' and 'hardhat.config'
+
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.0;
 
